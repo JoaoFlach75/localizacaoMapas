@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "Porto Alegre - RS",
+    "coords": [-30.0346, -51.2177],
+    "descricao": "Capital do Rio Grande do Sul. Conhecida pelo pôr do sol no Guaíba 🌅"
+  },
+  {
+    "nome": "São Paulo - SP",
+    "coords": [-23.5505, -46.6333],
+    "descricao": "Maior cidade do Brasil, centro financeiro e cultural 🇧🇷"
+  },
+  {
+    "nome": "Rio de Janeiro - RJ",
+    "coords": [-22.9068, -43.1729],
+    "descricao": "Cidade maravilhosa 🏖️ com o Cristo Redentor e o Pão de Açúcar."
+  }
+]
